@@ -1,7 +1,7 @@
 # seq-len
 Tutorial on sequence-length requirement results in computational phylogenetics
 
-Date: September 13, 2018
+Date: September 14, 2018
 
 Format: Jupyter notebook
 
